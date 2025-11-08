@@ -27,7 +27,6 @@ Passionate <b>Cybersec/Linux</b> enthusiast with a little coding experience.
             alt="Github"></a>
 
     	
-            
 </p>
 <hr />
 
