@@ -20,8 +20,10 @@ sh-6.9$ /bin/bash -i
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
     <a href="https://github.com/htr-tech.gpg" target="_blank"><img
-            src="https://img.shields.io/badge/GPG%20Key-%233f4145?style=for-the-badge&logo=gnu-privacy-guard"
-            alt="GPG Key"></a>
+            src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+            alt="Discord"></a>
+
+    	
             
 </p>
 <hr />
