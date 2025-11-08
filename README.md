@@ -19,9 +19,10 @@ sh-6.9$ /bin/bash -i
     <a href="https://t.me/M52853" target="_blank"><img
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
-    <a href="https://github.com/mcppdev" target="_blank"><img
+    <a href="https://github.com/htr-tech.gpg" target="_blank"><img
             src="https://img.shields.io/badge/GPG%20Key-%233f4145?style=for-the-badge&logo=gnu-privacy-guard"
             alt="GPG Key"></a>
+            
 </p>
 <hr />
 
