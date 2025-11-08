@@ -10,7 +10,8 @@ Passionate <b>Cybersec/Linux</b> enthusiast with a little coding experience.
 ~$ bash
 ~#
 ~# ls
-<a href="#-cat-AboutMe">AboutMe</a> <a href="#-head-languagepy">language.cpp</a> <a href="#-sysinfo">sysinfo*</a>
+    
+<a href="-cat-AboutMe">AboutMe</a>   <a href="head-languagecpp">language.cpp</a>   <a href="sysinfo">sysinfo*</a>
 </pre>
 
 <!-- Social Badges-->
