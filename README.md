@@ -83,16 +83,26 @@ sh-6.9$ /bin/bash -i
 <br/>
 
 <!-- Languages -->
-### `~# head language.py`
+### `~# head language.cpp`
 <a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
 
-```python
-class Languages:
-  def __init__(self):
-    self.python = "Python 🐍"
-    self.bash = "Bash 🔩"
-    self.golang = "Golang (Learning)"
-    self.future = "..."
+```cpp
+#include <iostream>
+#include <string>
+
+class Languages {
+public:
+    std::string cpp = "C++ ";
+    std::string bash = "Bash ";
+    
+};
+
+int main() {
+    Languages lang;
+    std::cout << lang.cpp << "\n";
+    std::cout << lang.bash << "\n";
+    return 0;
+}
 ```
 
 <br/>
