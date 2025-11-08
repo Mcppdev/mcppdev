@@ -39,9 +39,8 @@ sh-6.9$ /bin/bash -i
 
 ### Current Works:
 - Participating in CTF's.
-- Learning Golang.
-- Trying to get good marks in exams.
-- Working on some private projects.
+- Learning C++.
+- Learning Linux.
 <hr />
 
 ### `~# ls Projects`
@@ -109,18 +108,14 @@ class Languages:
   <tr>
     <td>Device 1</td>
     <td>Windows 10 Pro</td>
-    <td>Intel Core i2</td>
+    <td>AMD Ryzen 5 5500</td>
   </tr>
   <tr>
-    <td>Device 2</td>
-    <td>Xubuntu 22.04</td>
-    <td>-</td>
+    <td>VM</td>
+    <td>Kali Linux</td>
+    <td>AMD Ryzen 5 5500</td>
   </tr>
-  <tr>
-    <td>Samsung Galaxy ***</td>
-    <td>Android 12, OneUI 4</td>
-    <td>Unisoc</td>
-  </tr>
+    
 </table>
 
 <!-- end -->
