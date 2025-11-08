@@ -1,5 +1,5 @@
-<h2>Howdy , it's <i>Tahmid Rayat 👋</i></h2>
-Passionate <b>GNU/Linux</b> enthusiast with a little coding experience.
+<h2>Yo, it's M 👋</i></h2>
+Passionate <b>Cybersec/Linux</b> enthusiast with a little coding experience.
 <br /><br />
 
 <!-- Badges -->
