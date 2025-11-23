@@ -40,7 +40,7 @@ Passionate <b>Cybersec/Linux</b> enthusiast with a little coding experience.
 
 ### Current Works:
 - Participating in CTF's.
-- Working on small C++ and python projects.
+- Working on small C++ and Python projects.
 
 <hr />
 
