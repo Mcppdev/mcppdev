@@ -1,5 +1,5 @@
 <h2>Yo, it's M 👋</i></h2>
-<b>Cybersec/Linux</b> little coding experience.
+<b>Cybersec/Linux</b> and some <b>coding experience</b>.
 <br /><br />
 
 <!-- Badges -->
