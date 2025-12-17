@@ -32,7 +32,7 @@
 <hr />
 
 ### `~# cat AboutMe`
-<a href="#"><img align="right" height=200 src="bg.png"></a>
+
 
 - I am a **student** 
 - Learning C++ and Python.
