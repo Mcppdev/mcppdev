@@ -1,4 +1,4 @@
-<h2>Yo, it's M 👋</i></h2>
+<h2>Yo, it's M 👋</h2>
 <b>Cybersec/Linux</b> and some <b>coding experience</b>.
 <br /><br />
 
